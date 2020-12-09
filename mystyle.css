@@ -10,6 +10,12 @@ background-color: #ffffff;
 color: #000000;
 font-family: "Copperplate", fantasy;
 }
+h2 {
+  float: center;
+  text-align: center;
+  color: #5A91C8;
+  font-family: "Copperplate", fantasy;
+}
 .button {
   background-color: #3F4ABF;
   border: double;
