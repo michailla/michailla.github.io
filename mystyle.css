@@ -8,4 +8,37 @@ border-style: ridge;
 border-colour: #000000;
 background-color: #ffffff;
 color: #000000;
-font-family: "copperplate", fantasy;
+font-family: "Copperplate", fantasy;
+}
+.link1 a:link, a:visited {
+background-color: ##214F72;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+.link1 a:hover, a:active {
+background-color: #1A95F4;
+}
+.topright1 {
+position: absolute;
+top: 100px;
+right: 450px;
+font-size: 18px;
+font-family: "Verdana", "Helvetica", sans-serif;
+}
+.topright2 {
+  position: absolute;
+  top: 100px;
+  right: 250px;
+  font-size: 18px;
+  font-family: "Verdana", "Helvetica", sans-serif;
+}
+.topright3 {
+  position: absolute;
+  top: 100px;
+  right: 50px;
+  font-size:18px
+  font-family: "Verdana", "Helvetica", sans-serif;
+}
