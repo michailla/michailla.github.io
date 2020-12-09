@@ -23,7 +23,7 @@ font-family: "Copperplate", fantasy;
   transition-duration: 0.4s;
   cursor: pointer;
   font-family: "Verdana", "Helvetica", sans-serif;
-  position: center;
+  float: center;
 }
 .button1 {
   background-color:#3F4ABF,
