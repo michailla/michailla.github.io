@@ -107,6 +107,9 @@ border-style: double;
   position: absolute;
 }
 .div6 {
+  text-align: center;
+  border-style: double;
+  border-color: #000000;
   background-color: #C2D1DF;
   color: #0088cc;
   padding: 20px;
@@ -116,6 +119,7 @@ border-style: double;
   font-size: 15px;
   Top: 110px;
   right: 10px;
+  position: absolute;
 }
 .img1 {
 position: absolute;
