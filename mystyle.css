@@ -131,6 +131,18 @@ right: 450px;
    font-family: "Verdana", "Helvetica", sans-serif;
   font-size: 15px;
 }
+#rcorners3 {
+  border-radius: 25px;
+  background-color: #C2D1DF;
+  color: #0088cc;
+  padding: 20px;
+  width: 650px;
+  height: 250px;
+  font-family: "Verdana", "Helvetica", sans-serif;
+  font-size: 15px;
+  Top: 100px;
+  right: 50px;
+}
 .video1 {
 position: absolute;
 top: 480px;
