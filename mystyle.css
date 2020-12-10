@@ -63,6 +63,12 @@ border-style: double;
   width: 650px;
   height: 250px;
   position:absolute;
-  top: 115px;
+  top: 100px;
   right: 400px;
+}
+.img1 {
+position: absolute;
+top: 160px;
+right: 400px;
+
 }
