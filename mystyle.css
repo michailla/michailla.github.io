@@ -18,14 +18,18 @@ h2 {
   font-size: 25px;
 }
 h3 {
+  float: center;
   text-align: center;
-  color: #ffffff;
+  border-style:ridge;
+  border-color: #000000;
   background-color: #194775;
-  border: none;
+  color: #000000;
   font-family: "monaco", "lucida-console", monospace;
   font-size: 20px;
   height:100px;
   width:200px;
+  top:300px;
+  right: 300px;
 }
 .button {
   background-color: #3F4ABF;
