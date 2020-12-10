@@ -99,11 +99,11 @@ border-style: double;
   background-color: #194775;
   color: #000000;
   font-family: "monaco", "lucida-console", monospace;
-  font-size: 20px;
+  font-size: 15px;
   height:100px;
-  width:200px;
-  top:650px;
-  right: 300px;
+  width:500px;
+  top:450px;
+  right: 800px;
   position: absolute;
 }
 .img1 {
