@@ -166,10 +166,21 @@ right: 170px;
   height: 80px;
   font-family: "Verdana", "Helvetica", sans-serif;
   font-size: 15px;
-  Top: 970px;
+  Top: 960px;
   right: 100px;
   position: absolute;
 }
+.div9 {
+text align: center;
+  border-style: solid;
+  border-color: #000000;
+  color: #000000;
+  font-family: "Verdana", "Helvetica", sans-serif;
+  font-size: 15px;
+top: 1010px;
+right: 170px;
+}
+  position: absolute;
 .img1 {
 position: absolute;
 top: 400px;
