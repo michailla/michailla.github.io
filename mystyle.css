@@ -103,7 +103,7 @@ border-style: double;
   height:50px;
   width:700px;
   top:460px;
-  right: 610px;
+  right: 635px;
   position: absolute;
 }
 .img1 {
@@ -139,5 +139,5 @@ right: 50px;
 .video2 {
 position: absolute;
 top: 600px;
-right: 680px;
+right: 705px;
 }
