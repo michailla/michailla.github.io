@@ -128,8 +128,8 @@ right: 450px;
 .img2 {
   float: right;
 position: absolute;
-bottom: 100px;
-left: 100px;
+top: 600px;
+right: 500px;
   text-align: center;
 }
 #rcorners1 {
