@@ -23,8 +23,8 @@ h3 {
   background-color: #194775;
   border: none;
   font-family: "monaco", "lucida-console", monospace;
-  font-size: 10px;
-  height:15px;
+  font-size: 20px;
+  height:100px;
   width:200px;
 }
 .button {
