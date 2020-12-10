@@ -156,6 +156,20 @@ top: 660px;
 right: 170px;
   position: absolute;
 }
+.div10 {
+  text-align: center;
+  border-style: double;
+  border-color: #000000;
+  background-color: #272829;
+  color: #BCD8F5;
+  width: 440px;
+  height: 80px;
+  font-family: "Verdana", "Helvetica", sans-serif;
+  font-size: 15px;
+  Top: 730px;
+  right: 100px;
+  position: absolute;
+}
 .img1 {
 position: absolute;
 top: 400px;
