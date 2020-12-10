@@ -78,6 +78,7 @@ right: 450px;
   padding: 20px;
   width: 200px;
   height: 150px;
+  font-family: "Verdana", "Helvetica", sans-serif;
 }
 #rcorners2 {
   border-radius: 25px;
@@ -86,4 +87,5 @@ right: 450px;
   padding: 20px;
   width: 200px;
   height: 150px;
+   font-family: "Verdana", "Helvetica", sans-serif;
 }
