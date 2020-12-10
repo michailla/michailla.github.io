@@ -80,6 +80,18 @@ position: absolute;
 top: 150px;
 right: 50px;
 }
+.div4 {
+border-style: double;
+  border-color: #E0E3DD;
+  background-color: #ffffff;
+  border-width: 7px;
+  font-family: "Verdana", "Helvetica", sans-serif;
+  width: 750px;
+  height: 250px;
+  position:absolute;
+  top: 100px;
+  right: 500px;
+}
 .img1 {
 position: absolute;
 top: 400px;
