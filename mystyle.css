@@ -106,6 +106,17 @@ border-style: double;
   right: 665px;
   position: absolute;
 }
+.div6 {
+  background-color: #C2D1DF;
+  color: #0088cc;
+  padding: 20px;
+  width: 300px;
+  height: 250px;
+  font-family: "Verdana", "Helvetica", sans-serif;
+  font-size: 15px;
+  Top: 110px;
+  right: 10px;
+}
 .img1 {
 position: absolute;
 top: 400px;
@@ -130,18 +141,6 @@ right: 450px;
   height: 420px;
    font-family: "Verdana", "Helvetica", sans-serif;
   font-size: 15px;
-}
-#rcorners3 {
-  border-radius: 25px;
-  background-color: #C2D1DF;
-  color: #0088cc;
-  padding: 20px;
-  width: 300px;
-  height: 250px;
-  font-family: "Verdana", "Helvetica", sans-serif;
-  font-size: 15px;
-  Top: 500px;
-  right: 10px;
 }
 .video1 {
 position: absolute;
