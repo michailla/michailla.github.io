@@ -113,12 +113,12 @@ border-style: double;
   background-color: #C2D1DF;
   color: #0088cc;
   padding: 20px;
-  width: 300px;
-  height: 250px;
+  width: 400px;
+  height: 150px;
   font-family: "Verdana", "Helvetica", sans-serif;
   font-size: 15px;
   Top: 110px;
-  right: 10px;
+  right: 100px;
   position: absolute;
 }
 .img1 {
