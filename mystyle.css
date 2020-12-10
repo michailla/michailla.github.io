@@ -129,6 +129,7 @@ right: 450px;
 position: absolute;
 bottom: 100px;
 left: 100px;
+  text-align: center;
 }
 #rcorners1 {
   border-radius: 25px;
