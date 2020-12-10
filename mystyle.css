@@ -120,22 +120,22 @@ border-style: double;
   right: 100px;
   position: absolute;
 }
+}
+.div7 {
+text align: center;
+  border-style: solid;
+  border-color: #000000;
+  color: #000000;
+  font-family: "Verdana", "Helvetica", sans-serif;
+  font-size: 15px;
+top: 700px;
+right: 200px;
+  position: absolute;
+}
 .img1 {
 position: absolute;
 top: 400px;
 right: 450px;
-}
-.img2 {
-  float: right;
-position: absolute;
-top: 700px;
-right: 200px;
-  text-align: center;
-}
-.img3 {
-position: absolute;
-top: 700px;
-right: 200px;
 }
 #rcorners1 {
   border-radius: 25px;
