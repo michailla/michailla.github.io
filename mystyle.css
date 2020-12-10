@@ -71,3 +71,19 @@ position: absolute;
 top: 400px;
 right: 450px;
 }
+#rcorners1 {
+  border-radius: 25px;
+  background-color: #e6e6e6;
+  color: #0088cc;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#rcorners2 {
+  border-radius: 25px;
+  background-color: #8c8c8c;
+  color: #0088cc;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
