@@ -131,6 +131,20 @@ top: 230px;
 right: 170px;
   position: absolute;
 }
+.div8 {
+  text-align: center;
+  border-style: double;
+  border-color: #000000;
+  background-color: #8C8B8B;
+  color: #64A8EB;
+  width: 440px;
+  height: 80px;
+  font-family: "Verdana", "Helvetica", sans-serif;
+  font-size: 15px;
+  Top: 350px;
+  right: 100px;
+  position: absolute;
+}
 .img1 {
 position: absolute;
 top: 400px;
