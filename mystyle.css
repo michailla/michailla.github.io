@@ -99,10 +99,10 @@ border-style: double;
   background-color: #194775;
   color: #ffffff;
   font-family: "monaco", "lucida-console", monospace;
-  font-size: 13px;
-  height:30px;
+  font-size: 15px;
+  height:50px;
   width:700px;
-  top:450px;
+  top:480px;
   right: 7800px;
   position: absolute;
 }
