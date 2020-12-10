@@ -102,8 +102,8 @@ border-style: double;
   font-size: 15px;
   height:50px;
   width:700px;
-  top:480px;
-  right: 780px;
+  top:460px;
+  right: 580px;
   position: absolute;
 }
 .img1 {
@@ -138,6 +138,6 @@ right: 50px;
 }
 .video2 {
 position: absolute;
-top: 650px;
-right: 600px;
+top: 600px;
+right: 650px;
 }
