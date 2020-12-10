@@ -71,7 +71,7 @@ position: absolute;
 top: 400px;
 right: 450px;
 }
-#rcorners1 {
+.ul1 {
   border-radius: 25px;
   background-color: #e6e6e6;
   color: #0088cc;
@@ -80,10 +80,10 @@ right: 450px;
   height: 150px;
   font-family: "Verdana", "Helvetica", sans-serif;
 }
-#rcorners2 {
+.ul2 {
   border-radius: 25px;
   background-color: #8c8c8c;
-  color: #0088cc;
+  color: #C2DFFE;
   padding: 20px;
   width: 200px;
   height: 150px;
