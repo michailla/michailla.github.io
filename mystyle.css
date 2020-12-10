@@ -17,16 +17,6 @@ h2 {
   font-family: "Copperplate", fantasy;
   font-size: 25px;
 }
-h3 {
-  border-style: outset;
-  border-color: #000000;
-   background-color: #ffffff;
-  color: #000000;
-  font-family: "Copperplate", fantasy;
-  font-size: 25px;
-  Height: 100px;
-  Width: 200px;
-}
 .button {
   background-color: #3F4ABF;
   border: double;
