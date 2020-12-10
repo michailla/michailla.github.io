@@ -105,3 +105,8 @@ right: 450px;
    font-family: "Verdana", "Helvetica", sans-serif;
   font-size: 15px;
 }
+.video1 {
+position: absolute;
+top: 560px;
+right: 50px;
+}
